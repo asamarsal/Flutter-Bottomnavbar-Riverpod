@@ -2,4 +2,4 @@
 Example of bottom navbar + riverpod
 
 ## File Structure :
-https://raw.githubusercontent.com/asamarsal/Flutter-Bottomnavbar-Riverpod/refs/heads/main/provider.PNG
+![Struktur File](https://raw.githubusercontent.com/asamarsal/Flutter-Bottomnavbar-Riverpod/main/provider.PNG)
